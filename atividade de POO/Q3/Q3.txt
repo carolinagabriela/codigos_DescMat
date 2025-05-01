@@ -1,0 +1,17 @@
+Atividade: Criação de um Jogo de Adivinhação de Personagens
+
+Objetivo
+Nesta atividade, você irá desenvolver um jogo no estilo "Akinator", onde o computador tentará adivinhar um personagem baseado nas respostas do usuário. Para isso, você utilizará conceitos de programação orientada a objetos e árvores de decisão.
+
+Instruções
+1. Leitura do Arquivo JSON
+Crie um arquivo JSON que contenha uma lista de personagens, incluindo suas características (por exemplo, sexo, se é animação, etc.).
+
+2. Estrutura de Dados
+Utilize árvores de decisão para estruturar as perguntas que o jogo fará ao usuário. Cada pergunta deve levar a uma decisão que reduzirá as opções de personagens.
+
+3. Implementação do Jogo
+O jogo deve iniciar perguntando ao usuário sobre as características do personagem que ele está pensando. Baseando-se nas respostas do usuário, o jogo deve filtrar os personagens possíveis e continuar fazendo perguntas até que consiga adivinhar o personagem ou o usuário queira desistir.
+
+4. Teste
+Após a implementação, teste o jogo com diferentes personagens e características para garantir que ele funcione corretamente.

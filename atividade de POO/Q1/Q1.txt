@@ -1,0 +1,9 @@
+Questão 1: Implementação de uma Classe para Representar Frações
+
+Crie uma classe Fracao que represente uma fração matemática, contendo numerador e denominador. A classe deve implementar as seguintes funcionalidades:
+
+- Adição, subtração, multiplicação e divisão de frações.
+- Comparação entre frações (igualdade, maior que, menor que).
+- Simplificação automática da fração após cada operação.
+- Conversão da fração para número decimal.
+- Impressão no formato numerador/denominador.

@@ -1,0 +1,10 @@
+Questão 2: Implementação de uma Classe para Representar Polinômios com Plotagem
+Crie uma classe Polinomio que represente um polinômio matemático. A classe deve permitir:
+
+- Adição, subtração e multiplicação de polinômios.
+- Avaliação do polinômio para um dado valor de x.
+- Comparação entre polinômios (igualdade).
+- Representação do polinômio em formato legível, por exemplo: 2x^2 + 3x - 5.
+- Redução automática dos termos semelhantes (termos com o mesmo expoente).
+- Plotagem do gráfico do polinômio em um intervalo fornecido e geração de um arquivo CSV contendo os valores de x e f(x).
+- O construtor da classe deve aceitar uma expressão de polinômio como string, por exemplo: "2x^2 + 3x - 5".
